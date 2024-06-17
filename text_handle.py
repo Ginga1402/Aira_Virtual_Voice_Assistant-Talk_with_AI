@@ -17,7 +17,7 @@ print(f"Using torch {torch.__version__} ({DEVICE})")
 
 
 # Using Open AI's whisper small for converting Voice to text
-# As I was unable to load the audio file directly to whisper in Windows, I had to create a Rest API in Ubuntu and transcribe through the API
+# As I was unable to load the audio file directly to whisper in Windows, I had to create a Rest API  and run it in Ubuntu and transcribe through an API
 
 
 def transcribe_audio(audio_location):
