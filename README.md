@@ -21,7 +21,7 @@ The following technologies and libraries were used in the development of this ap
 [Ollama](https://ollama.com/): It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in a
 variety of applications.
 
-Model Used: [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)  is a decoder only model which means that it resembles the decoder block of the transformer architecture. Most language models today are decoder only model since they are designed for text generation which doesn’t need bidirectional processing.
+Model Used: [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)  is a language model developed by Mistral, an organization specializing in AI and machine learning technologies. It's part of the Mistral family of models and has around 7 billion parameters.
 
 [Whisper](https://github.com/openai/whisper) is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
 
