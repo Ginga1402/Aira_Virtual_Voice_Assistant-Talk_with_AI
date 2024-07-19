@@ -1,4 +1,6 @@
+#### Harnessing LLMs and Generative AI for Fluid Conversations and Context-Aware Responses
 
+# Aira ✨: Your Intelligent Voice Assistant
 
 
 ## Overview
@@ -6,10 +8,11 @@
 
 This project introduces a cutting-edge voice assistant powered by Large Language Models (LLMs) and Generative AI, designed to revolutionize user interaction. The application allows seamless conversation with the assistant, which not only answers a wide range of queries but also remembers the context of previous interactions. This memory feature enables the assistant to provide more accurate and context-aware responses over time. By leveraging advanced query handling and the generative capabilities of AI, this voice assistant is ideal for use cases such as customer support, personal assistance, and interactive education, offering a sophisticated, intelligent, and user-friendly experience.
 
+AIRA, our voice assistant, is named for its deep meanings: "the beginning," "the principle," and "the breath of life." This reflects our aim to innovate from the ground up, grounded in core AI principles, and to bring fresh, intuitive interactions to users
 
 ## Tech Stack Used
 
-The following technologies and libraries were used in the development of this chatbot:
+The following technologies and libraries were used in the development of this application:
 
 [Python](https://www.python.org/): Programming language used for the implementation.
 
@@ -48,5 +51,14 @@ python run whisper_api.py
 ```py
 python run main.py
 ```
+
+## Usage
+The application features an intuitive command-line interface. Simply speak your query, and the assistant will generate and vocalize a response.
+
+## Contributing
+Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
