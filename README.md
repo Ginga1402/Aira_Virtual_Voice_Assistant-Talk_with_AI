@@ -18,5 +18,35 @@ The following technologies and libraries were used in the development of this ch
 [Ollama](https://ollama.com/): It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in a
 variety of applications.
 
-Model Used: [Llama 2](https://huggingface.co/TheBloke/Llama-2-7B-GGUF) is a family of pre-trained and fine-tuned large language models (LLMs) released by Meta AI in 2023. Released free of charge for research and commercial use, Llama 2 AI models are capable of a variety of natural language processing (NLP) tasks, from text generation to programming code.
+Model Used: [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)  is a decoder only model which means that it resembles the decoder block of the transformer architecture. Most language models today are decoder only model since they are designed for text generation which doesn’t need bidirectional processing.
+
+[Whisper](https://github.com/openai/whisper) is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+
+
+## Getting Started
+
+To get started with the Open-source AI equipped voice assistant, follow these steps:
+
+1. Clone the repository
+```py
+git clone https://github.com/Ginga1402/Talk_with_AI
+```
+2. Install the required dependencies:
+
+```py
+pip install -r requirements.txt
+```
+
+3. Run the Whisper API :
+
+```py
+python run whisper_api.py
+```
+
+
+4. Run the Voice Assistant application 
+```py
+python run main.py
+```
+
 
