@@ -21,7 +21,7 @@ print(f"Using torch {torch.__version__} ({DEVICE})")
 
 
 def transcribe_audio(audio_location):
-    url = 'http://172.25.249.70:1402/transcribe'
+    url = 'http://localhost:1402/transcribe'
     audio_location = "none"
     audio_path ='/mnt/d/Personal/Experiments/talk_with_AI/Final_voice_assistant/input.mp3'
     data = {'audio_path': audio_path}
