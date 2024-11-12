@@ -59,6 +59,8 @@ The application features an intuitive command-line interface. Simply speak your 
 
 A glimpse into Aira’s intuitive interface, showcasing the seamless conversion.
 
+![Aira Sample](https://github.com/user-attachments/assets/5b226c75-c8b2-4164-90c2-0bb196f39c1b)
+
 ## Contributing
 Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
 
