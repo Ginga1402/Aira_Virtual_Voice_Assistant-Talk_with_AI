@@ -55,7 +55,8 @@ python run main.py
 ## Usage
 The application features an intuitive command-line interface. Simply speak your query, and the assistant will generate and vocalize a response.
 
-Aira ✨ User Interface Demo
+## Aira ✨ User Interface Demo
+
 A glimpse into Aira’s intuitive interface, showcasing the seamless conversion.
 
 ## Contributing
