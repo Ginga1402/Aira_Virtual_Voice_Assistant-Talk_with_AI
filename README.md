@@ -2,6 +2,7 @@
 
 # Aira ✨: Your Intelligent Voice Assistant
 
+### Aira ✨: Powered by LangChain, Running on LLaMA & Whisper for Smarter Conversations
 
 ## Overview
 
